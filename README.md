@@ -9,7 +9,7 @@ Para consegir entregar [minha tese](https://repositorio.ufmg.br/handle/1843/3857
 Depois disso, um aluno do PPGCC já me procurou para saber como eu tinha feito as adaptações na minha tese e eu forneci a ele o arquivo `ppgccufmg.cls` alterado e as duas linhas que incluí no meu arquivo `.tex`. Ele depois me reportou que o arquivo modificado o poupou de um grande trabalho.
 
 Resolvi então criar este repositório para facilitar o compartilhamento deste arquivo.
-Gostaria, entretanto, de ressaltar que conheço de latex apenas o suficiente para escrever meu próprio texto (e mesmo assim com muita ajuda do Google, Stack Overflow, etc.) e, portanto, não tenho condições de fornecer suporte ou disponibilizar alterações adicionais no arquivo disponibilizado**.
+Gostaria, entretanto, de ressaltar que conheço de latex apenas o suficiente para escrever meu próprio texto (e mesmo assim com muita ajuda do Google, Stack Overflow, etc.) e, portanto, **não tenho condições de fornecer suporte ou disponibilizar alterações adicionais no arquivo disponibilizado**.
 
 ## Para usar o Modelo Gambiarra
 
@@ -32,7 +32,7 @@ Gostaria, entretanto, de ressaltar que conheço de latex apenas o suficiente par
 - O arquivo não foi testado para dissertações ou projetos de tese, então pode ser que sejam necessárias modificações adicionais.
 - Como já mencionado, não tenho condições fazer alterações no arquivo disponibilizado.
 
-De toda forma, espero que este repositório possa ser útil de alguma forma.
+De toda forma, espero que este repositório possa ser útil.
 
 
 ## Alterações feitas no arquivo `ppgccufmg.cls`
