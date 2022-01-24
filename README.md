@@ -13,16 +13,18 @@ Gostaria, entretanto, de ressaltar que conheço de latex apenas o suficiente par
 
 ## Para usar o Modelo Gambiarra
 
-1. Use o arquivo `ppgccufmg.cls` que tem as minhas alterações (gambiarras).
+1. Baixe a [versão 1.60](https://static.vilarneto.com/ppgccufmg-1_60.zip) do modelo do Vilar Neto. Você pode também querer baixar os [arquivos de exemplo](https://static.vilarneto.com/ppgccufmg-exemplo-1_60.zip).
 
-2. É necessário adicionar as linhas abaixo no seu próprio arquivo `.tex`, imediatamente **antes** do capítulo de introdução. Lembre-se de alterar o número da página, de acordo com o seu documento.
+2. Substitua o arquivo `ppgccufmg.cls` baixado pelo que se encontra neste repositório, que tem as minhas alterações (gambiarras).
+
+3. É necessário adicionar as linhas abaixo no seu próprio arquivo `.tex`, imediatamente **antes** do capítulo de introdução. Lembre-se de alterar o número da página, de acordo com o seu documento.
 
 ```
 \setcounter{page}{26}
 \makeoddhead{chapter}{}{}{\thepage}
 ```
 
-3. Quando o Marcelo utilizou este modelo, ele tinha escrito sua tese em inglês e com epígrafe e, por isso, precisou fazer as seguintes modificações adicionais:
+4. Quando o Marcelo utilizou este modelo, ele tinha escrito sua tese em inglês e com epígrafe e, por isso, precisou fazer as seguintes modificações adicionais:
 
 - Remover *na marra* a folha de rosto para a versão em inglês (pois apareciam duas folhas de rosto).
 - Acrescentar um comando para omitir o número de página da epígrafe, similar ao que eu tinha feito para as demais seções.
