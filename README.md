@@ -4,7 +4,7 @@ O Modelo para Dissertação e Tese [disponibilizado](https://ppgcc.dcc.ufmg.br/i
 Eu tinha escrito a minha tese de doutorado em Latex utilizando o template citado, mas ela foi rejeitada pelo Repositório da UFMG por não seguir as diretrizes atuais.
 
 Eu conversei então com o [Vilar Neto](https://bitbucket.org/vilarneto/ppgccufmg) que mantinha um repositório com uma versão (inclusive mais atual) do template PPGCC/UFMG, e ele me informou que seriam necessárias muitas alterações no template, devido ao grande número de modificações das novas diretrizes.
-Para consegir entregar [minha tese](https://repositorio.ufmg.br/handle/1843/38570), eu fiz então várias alterações, ou **gambiarras** como preferir, no arquivo `ppgccufmg.cls` e tive que colocar algumas linhas adicionais no meu arquivo `.tex`.
+Para conseguir entregar [minha tese](https://repositorio.ufmg.br/handle/1843/38570), eu fiz então várias alterações, ou **gambiarras** como preferir, no arquivo `ppgccufmg.cls` e tive que colocar algumas linhas adicionais no meu arquivo `.tex`.
 
 Depois disso, o Marcelo Pita, também aluno do PPGCC, já me procurou para saber como eu tinha feito as adaptações na minha tese e eu forneci a ele o arquivo `ppgccufmg.cls` alterado e as duas linhas que incluí no meu arquivo `.tex`. Ele depois me reportou que o arquivo modificado o poupou de um grande trabalho.
 
